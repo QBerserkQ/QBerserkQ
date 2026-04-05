@@ -11,9 +11,3 @@
 - 💻 Aspiring **Java Developer**, aiming to become a **Full Stack Developer**
 - 📚 Currently learning: **Java** <-> **Networking**
 - 🗄️ Familiar with: **SQL** | **C** | **C++** | **Python** | **VBA**
-
-## 🛠️ Skills
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
