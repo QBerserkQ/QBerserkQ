@@ -10,4 +10,4 @@
 - 🎓 Studying Applied Informatics at [Technical University of Moldova](https://utm.md/)
 - 💻 Aspiring **Java Developer**, aiming to become a **Full Stack Developer**
 - 📚 Currently learning: **Java** <-> **Networking**
-- 🗄️ Familiar with: **SQL** | **C** | **C++** | **Python** | **VBA**
+- 🗄️ Familiar with: **SQL** | **Python**
