@@ -9,5 +9,5 @@
 ## 🙋 About Me
 - 🎓 Studying Applied Informatics at [Technical University of Moldova](https://utm.md/)
 - 💻 **Java Developer**, aiming to become a **Full Stack Developer**
-- 📚 Currently learning: **Java** <-> **Networking**
+- 📚 Currently learning: **Spring Boot** <-> **PostgreSQL**
 - 🗄️ Familiar with: **SQL** | **Python**
